@@ -1,0 +1,84 @@
+1. [Natural language query]Give me the birthdays of all actors starring in the 1997 film of Titanic. 
+[Incomplete SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+SELECT DISTINCT ?date
+WHERE {
+        dbr:Titanic_\(1997_film\) dbo:starring ?actor .
+        ?actor [...] ?date .
+}
+[Gold-standard SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+SELECT DISTINCT ?date
+WHERE {
+        dbr:Titanic_\(1997_film\) dbo:starring ?actor .
+        ?actor dbo:birthDate ?date .
+}
+
+
+2. [Natural language query]In which places are the mountains in the Alaska Range located in?
+[Incomplete SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+SELECT DISTINCT ?o
+WHERE { 
+        ?s dbo:mountainRange dbr:Alaska_Range .
+        ?s [...] ?o .
+}
+[Gold-standard SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+SELECT DISTINCT ?o
+WHERE { 
+        ?s dbo:mountainRange dbr:Alaska_Range .
+        ?s dbo:locatedInArea ?o .
+}
+
+3. [Natural language query]I want the homepages of all academic journals of Computer Science published by Elsevier. 
+[Incomplete SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?s ?page
+WHERE {
+        ?s rdf:type [...] .
+        ?s [...] dbr:Elsevier .
+        ?s dbo:academicDiscipline dbr:Computer_science .
+        ?s [...] ?page .
+}
+[Gold-standard SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?s ?page
+WHERE {
+        ?s rdf:type dbo:AcademicJournal .
+        ?s dbo:publisher dbr:Elsevier .
+        ?s dbo:academicDiscipline dbr:Computer_science .
+        ?s <http://xmlns.com/foaf/0.1/homepage> ?page .
+}
+
+4. [Natural language query]Show me all soccer players and their positions in the team of Washington Freedom, who were born in NYC. 
+[Incomplete SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?s ?pos
+WHERE { 
+        ?s rdf:type [...] .
+        ?s [...] dbr:New_York_City .
+        ?s [...] dbr:Washington_Freedom .
+        ?s dbo:position ?pos .
+}
+[Gold-standard SPARQL query]
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?s ?pos
+WHERE { 
+        ?s rdf:type dbo:SoccerPlayer .
+        ?s dbo:birthPlace dbr:New_York_City .
+        ?s dbo:team dbr:Washington_Freedom .
+        ?s dbo:position ?pos .
+}
