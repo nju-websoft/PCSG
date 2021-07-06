@@ -59,7 +59,7 @@ If you use these codes or results, please kindly cite it as follows:
 @inproceedings{PCSG,
   author    = {Xiaxia Wang and Gong Cheng and Tengteng Lin and Jing Xu and Jeff Z. Pan and Evgeny Kharlamov and Yuzhong Qu},
   title     = {PCSG: Pattern-Coverage Snippet Generation for RDF Datasets},
-  booktitle	= {{ISWC 2021}},
+  booktitle = {{ISWC 2021}},
   year      = {2021}
 }
 ```
