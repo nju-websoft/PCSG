@@ -1,0 +1,20 @@
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-8wkm.ge46.esqx> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-y74z.jn75~7y9n> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-f94p_dnjf.3afq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-gvte-4s7w.7p8x> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-78zx_g492.pk5h> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-c4sd_75zi-6ret> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-kdv6.d7eb.pxe9> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-iig3~z2kg-evak> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-iig3~z2kg-evak> <https://data.cityofchicago.org/resource/_2nra-kpzu/date_received> "2010-11-08T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-pebw.353e~qgr7> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-7cjd.s5bk~8wbj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <https://data.cityofchicago.org/resource/_2nra-kpzu/due_date> "2010-12-16T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <https://data.cityofchicago.org/resource/_2nra-kpzu/requestor_name> "Paul Slater" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <http://www.socrata.com/rdf/terms#rowID> "row-q5em.x6g6-6wng" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <https://data.cityofchicago.org/resource/_2nra-kpzu/description_of_request> "copy of sunset PD for 601 W. Diversey" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-q5em.x6g6-6wng> <https://data.cityofchicago.org/resource/_2nra-kpzu/organization> "Solomon Caldwell  Buenz" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-jbgx.6mvp-ukwy> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-uwkh.vmfg_i2xb> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-ix2h_htud-g78y> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .

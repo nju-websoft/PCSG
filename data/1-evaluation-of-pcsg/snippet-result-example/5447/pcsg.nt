@@ -1,0 +1,108 @@
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Feigenbaum, Harriet" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "25th Street and Madison Avenue" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "New York" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "Appellate Division Courthouse" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <http://www.socrata.com/rdf/terms#rowID> "row-jg3b~mjpr-8vc6" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jg3b~mjpr-8vc6> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Manhattan" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "3151 Webster Avenue" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Bronx Council District #11" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "Norwood" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.872099" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Medina, Diego" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <http://www.socrata.com/rdf/terms#rowID> "row-944p~u8c7-ct5a" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "PS IS 177" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Bronx" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Bronx" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "425" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Bronx Community Board #7" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.875837" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-944p~u8c7-ct5a> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "10467" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Wallicao Metal & Marble Mainte" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.970118" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "Brooklyn Public Library Grillework Conservation Phase II" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "Grand Army Plaza" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "Park Slope-Gowanus" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "11238" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <http://www.socrata.com/rdf/terms#rowID> "row-n8te~nizx~xfx6" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Brooklyn" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Brooklyn" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.673992" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Brooklyn Community Board #3" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "159" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n8te~nizx~xfx6> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Brooklyn Council District #35" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.738575" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.976588" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Lutter, Vera" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/bbl> "1009620100" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Manhattan Council District #4" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Manhattan Community Board #6" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <http://www.socrata.com/rdf/terms#rowID> "row-v343-v6ek.6cuz" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "New York" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "421 East 26th Street" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "62" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "Office of Chief Medical Examiner" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Manhattan" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/bin> "1087242" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "Murray Hill-Kips Bay" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-v343-v6ek.6cuz> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "10016" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "McCarren Park Pool" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Temple, Mary" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Brooklyn Council District 33" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Brooklyn Community Board 1" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "east of Lorimer Street between Bayard Street and Driggs Avenue in McCarren Park" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Brooklyn" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <http://www.socrata.com/rdf/terms#rowID> "row-ezr7-ndd4-wu69" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ezr7-ndd4-wu69> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Brooklyn" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Bronx Council District #11" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Sky, Alison" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "IS 368, Modular" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Bronx" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "Tibbets Garden and 230th Street" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <http://www.socrata.com/rdf/terms#rowID> "row-ay27-6t5c~e2vn" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Bronx" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ay27-6t5c~e2vn> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Bronx Community Board #8" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.785626" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.707537" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/bbl> "4102150001" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Queens" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "444" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <http://www.socrata.com/rdf/terms#rowID> "row-shnk-ytde.sczj" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "92-07 175 Street" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "Jamaica" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "11433" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "PS 268" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/bin> "4217573" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Queens Council District #27" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Queens" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-shnk-ytde.sczj> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Chang, Jackie" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <http://www.socrata.com/rdf/terms#rowID> "row-vuuv.2637-ja8a" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "Allen Street" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "New York" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Manhattan" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Ladda, Justen" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "Allen Street Malls" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-vuuv.2637-ja8a> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Manhattan Community Board #3" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Manhattan Community Board #11" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "164" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.786963" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.947537" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "10029" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Otterness, Tom" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Manhattan" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/bin> "1052383" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/bbl> "1016490009" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "New York" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <http://www.socrata.com/rdf/terms#rowID> "row-s989.xwqd-bbmy" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Manhattan Council District #8" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "215 East 99th Street" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "PS 109" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-s989.xwqd-bbmy> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "East Harlem South" .

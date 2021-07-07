@@ -1,0 +1,38 @@
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://xmlns.com/foaf/0.1/title> "CONSTRUCTION LABORER" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://www.socrata.com/rdf/terms#rowID> "row-ep99.a7dc.kgih" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <https://data.cityofchicago.org/resource/xzkq-xp2w/full_or_part_time> "F" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <https://data.cityofchicago.org/resource/xzkq-xp2w/hourly_rate> "43.72" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://xmlns.com/foaf/0.1/workplaceHomepage> "WATER MGMNT" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <https://data.cityofchicago.org/resource/xzkq-xp2w/salary_or_hourly> "Hourly" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <https://data.cityofchicago.org/resource/xzkq-xp2w/typical_hours> "40" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ep99.a7dc.kgih> <http://xmlns.com/foaf/0.1/name> "ALCAZAR,  CYNTHIA" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <https://data.cityofchicago.org/resource/xzkq-xp2w/full_or_part_time> "F" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://xmlns.com/foaf/0.1/name> "ADEWOLE,  KAREEM A" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://xmlns.com/foaf/0.1/title> "CONSTRUCTION LABORER" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <https://data.cityofchicago.org/resource/xzkq-xp2w/salary_or_hourly> "Hourly" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://www.socrata.com/rdf/terms#rowID> "row-a4zr.id4f.4255" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <https://data.cityofchicago.org/resource/xzkq-xp2w/typical_hours> "40" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <https://data.cityofchicago.org/resource/xzkq-xp2w/hourly_rate> "43.72" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4zr.id4f.4255> <http://xmlns.com/foaf/0.1/workplaceHomepage> "WATER MGMNT" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://xmlns.com/foaf/0.1/title> "CAPTAIN-EMT" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <https://data.cityofchicago.org/resource/xzkq-xp2w/salary_or_hourly> "Salary" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <https://data.cityofchicago.org/resource/xzkq-xp2w/full_or_part_time> "F" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://xmlns.com/foaf/0.1/name> "ADAMS,  RAYMOND T" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <https://data.cityofchicago.org/resource/xzkq-xp2w/annual_salary> "132732" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://www.socrata.com/rdf/terms#rowID> "row-b4cp-vmu6.q7q5" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://xmlns.com/foaf/0.1/workplaceHomepage> "FIRE" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-b4cp-vmu6.q7q5> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <https://data.cityofchicago.org/resource/xzkq-xp2w/salary_or_hourly> "Salary" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <https://data.cityofchicago.org/resource/xzkq-xp2w/annual_salary> "72480" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://xmlns.com/foaf/0.1/title> "LIBRARY ASSOCIATE" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://xmlns.com/foaf/0.1/name> "ACOSTA,  MARTHA A" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://www.socrata.com/rdf/terms#rowID> "row-axtp~smp9_c2zj" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://xmlns.com/foaf/0.1/workplaceHomepage> "PUBLIC LIBRARY" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <https://data.cityofchicago.org/resource/xzkq-xp2w/full_or_part_time> "F" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-axtp~smp9_c2zj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .

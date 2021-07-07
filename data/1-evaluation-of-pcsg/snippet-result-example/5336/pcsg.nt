@@ -1,0 +1,20 @@
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <http://www.socrata.com/rdf/terms#rowID> "row-utjc_zgq7.dzx7" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/recordid> "2929280004342015" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/number_of_seniors> "268" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.mo.gov/resource/_8yaf-xv66> .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/ncessch> "292928000434" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/school_year> "2015" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.mo.gov/resource/_8yaf-xv66> .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/district> "ST. LOUIS CITY" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/lastupdated> "2015-04-14T09:20:00" .
+<https://data.mo.gov/resource/_8yaf-xv66/2929280004342015> <https://data.mo.gov/resource/_8yaf-xv66/school_name> "GATEWAY HIGH" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/district> "FAIR GROVE R-X" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/recordid> "2911700004292015" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.mo.gov/resource/_8yaf-xv66> .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/number_of_seniors> "92" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <http://www.socrata.com/rdf/terms#rowID> "row-rri8-da5w.wf3c" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/ncessch> "291170000429" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/school_year> "2015" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.mo.gov/resource/_8yaf-xv66> .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/school_name> "FAIR GROVE HIGH" .
+<https://data.mo.gov/resource/_8yaf-xv66/2911700004292015> <https://data.mo.gov/resource/_8yaf-xv66/lastupdated> "2015-04-14T09:19:00" .

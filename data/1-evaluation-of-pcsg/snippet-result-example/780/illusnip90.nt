@@ -1,0 +1,31 @@
+<https://data.hawaii.gov/resource/pkba-543m/row-fegs-m2hw-xg8h> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-vjny_t8tu-tz85> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-ptbc~fjyy~xe2x> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-f2i6.nvf9_8ehe> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-rh8z-fkp3.vghk> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-eug6.ig29_3ggj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-us4t~tvhv_aku7> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-rxka-nk84-budh> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-4rxn_gmb7~ze9t> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-bjm9.zyrp~5kbg> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-smia~m7s5.uukm> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-bki2.67wv-e4bm> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-x3af~za76~gabg> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-uuaf.5h63_q9g2> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-ixdb~cfqj.4ndr> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-jswy_w46s.ukkk> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-2xtg.nmaq~bw44> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-w6yv~5rjc-i2ch> <https://data.hawaii.gov/resource/pkba-543m/appropriation> "($)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-w6yv~5rjc-i2ch> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/title> "RELATING TO INTAKE SERVICE CENTERS." .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/subject> "Intake Service Centers; Pretrial Bail Reports" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/current_referral> "PBS, JUD" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/introducer_s> "KIM (Introduced by request of another party)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <http://www.socrata.com/rdf/terms#rowID> "row-d96s.74c2.k5ze" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/status> "S 5/1/2013: Act 067, 4/30/2013 (Gov. Msg. No. 1167)." .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/bill> "SB1183 SD2 HD1" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <https://data.hawaii.gov/resource/pkba-543m/abstract> "Requires intake service centers to provide pretrial bail reports to the courts on adult offenders that are consented to by the defendant or that are ordered by the court and amends the law to provide statutory authority to the courts to treat information contained in the pretrial bail reports as confidential. Repeals the intake service centers' duty to provide pretrial assessments on adult offenders that are consented to by the defendant or ordered by the court and assist in the conduct of presentence assessments on adult offenders and the preparation of presentence reports when requested by the courts. (SB1183 HD1)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-d96s.74c2.k5ze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-n5ja~mvui~d4mm> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-5dcu~kn9f_wmrs> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .

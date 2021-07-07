@@ -1,0 +1,49 @@
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Aggravated DUI" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_unit> "District 5 - Calumet" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <http://www.socrata.com/rdf/terms#rowID> "row-vhew-fsn4~uw7u" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/sentencing_result> "Probation" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "2" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-vhew-fsn4~uw7u> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <http://www.socrata.com/rdf/terms#rowID> "row-6u77.7kk7-jqzu" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/sentencing_result> "Death" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Suburb/Other" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-6u77.7kk7-jqzu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Armed Robbery" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Arson" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <http://www.socrata.com/rdf/terms#rowID> "row-8fr4.de49-t6gk" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "7" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/sentencing_result> "Prison" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8fr4.de49-t6gk> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Aggravated Fleeing and Eluding" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <http://www.socrata.com/rdf/terms#rowID> "row-mja3.fp26.gidd" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mja3.fp26.gidd> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Suburb/Other" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Armed Robbery" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <http://www.socrata.com/rdf/terms#rowID> "row-sd8i-i4gx-n9pg" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_unit> "UNIT 620 - DETECTIVE SECTION - SOUTH" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-sd8i-i4gx-n9pg> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Aggravated Battery" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Suburb/Other" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <http://www.socrata.com/rdf/terms#rowID> "row-u9sk~ag3m-kh9a" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-u9sk~ag3m-kh9a> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "2" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "11" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <http://www.socrata.com/rdf/terms#rowID> "row-ffa3~qgdr~nzwb" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/sentencing_result> "Prison" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_unit> "District 10 - Ogden" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ffa3~qgdr~nzwb> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Armed Robbery" .

@@ -1,0 +1,13 @@
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "55060" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/median> "49470" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <http://www.socrata.com/rdf/terms#rowID> "row-94sg_jb8i_javv" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/employment> "46500" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/mean> "49620" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "38730" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Licensed Practical and Licensed Vocational Nurses" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "29-2061" .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .

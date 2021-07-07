@@ -1,0 +1,28 @@
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-hm98_z6cq.tigb> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-uevq_qy5n.nbjp> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-yvbx-gtnn.kkjx> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-ssqh.by8c_i2j2> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bv93_7vau_ykkq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a4py-2n3z~c6hw> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-2sre~euva_scxs> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-a2t5.nbiy.8afp> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-7cif~j6p4.eph8> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-n3zw-egcq.3rn4> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-hfri_4btn~4bdn> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-nrzz-wxpv~wcgs> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-j6jc~kuzc.fmuv> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-4bq8_znjb-yt3b> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-4bq8_znjb-yt3b> <https://data.cityofchicago.org/resource/xzkq-xp2w/annual_salary> "87006" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <https://data.cityofchicago.org/resource/xzkq-xp2w/salary_or_hourly> "Hourly" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <https://data.cityofchicago.org/resource/xzkq-xp2w/full_or_part_time> "F" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://www.socrata.com/rdf/terms#rowID> "row-bhbn~fy9u-is74" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://xmlns.com/foaf/0.1/workplaceHomepage> "GENERAL SERVICES" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://xmlns.com/foaf/0.1/title> "OPERATING ENGINEER-GROUP A" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <https://data.cityofchicago.org/resource/xzkq-xp2w/hourly_rate> "51.85" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <http://xmlns.com/foaf/0.1/name> "AKHTAR,  SYED J" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-bhbn~fy9u-is74> <https://data.cityofchicago.org/resource/xzkq-xp2w/typical_hours> "40" .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-vthm~7m55_xcb8> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-8zza-ua6w-cskw> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .
+<https://data.cityofchicago.org/resource/xzkq-xp2w/row-wu3r_bvsz_hraj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/xzkq-xp2w> .

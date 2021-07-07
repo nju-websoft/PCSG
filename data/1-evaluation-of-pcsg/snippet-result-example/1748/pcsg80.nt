@@ -1,0 +1,28 @@
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "ID" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - BLOOD ALCOHOL CONTENT .18 OR HIGHER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <http://www.socrata.com/rdf/terms#rowID> "row-wr7x-xyhr~48nt" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/sex> "M" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "26" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-wr7x-xyhr~48nt> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "KINGS CRIMINAL COURT" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "33" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - BLOOD ALCOHOL CONTENT .18 OR HIGHER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "D" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "CAYUGA COUNTY, TOWN OF THROOP" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <http://www.socrata.com/rdf/terms#rowID> "row-xsn6-x2q7_feuj" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-xsn6-x2q7_feuj> <https://data.ny.gov/resource/yqfe-cnwu/sex> "M" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "ID" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "SUFFOLK DISTRICT COURT" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - BLOOD ALCOHOL CONTENT .18 OR HIGHER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <http://www.socrata.com/rdf/terms#rowID> "row-v9wm-vxy7-6nkz" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .

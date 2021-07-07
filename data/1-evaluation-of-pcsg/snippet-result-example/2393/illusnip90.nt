@@ -1,0 +1,25 @@
+<https://data.austintexas.gov/resource/_7r7e-cc8k/223> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/138> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/71> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/350> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/265> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/349> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/434> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/476> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/108> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/320> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/235> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/404> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/319> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/446> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_start_date> "2015-03-01T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/coa_managed_program_amount> "376287" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/agency_legal_name> "Austin Travis County Mental Health & Mental Retardation Ctr" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/id> "68" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/program_name> "Part A - ATCIC" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_end_date> "2016-02-29T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <https://data.austintexas.gov/resource/_7r7e-cc8k/dba_if_any> "Integral Care" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/168> <http://www.socrata.com/rdf/terms#rowID> "168" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/295> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/380> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .

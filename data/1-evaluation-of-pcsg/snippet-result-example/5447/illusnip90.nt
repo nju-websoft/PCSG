@@ -1,0 +1,41 @@
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-rvpi_x9ym-9jg9> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-xren_drky~cix7> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-n9bc~si2j-98js> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-gdww~xtnh.6aww> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-9s3w-qffk-g8u2> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-7783.rchb.j6tz> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-fmbt~8d3c-459i> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-zty4-xs2s~v49r> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/bbl> "4082760657" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/percent_project> "North Hills Branch Library" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/borough> "Queens" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/longitude> "-73.731307" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/artist> "Gillen, Ann" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/community_board> "Queens Community Board #11" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/council_district> "Queens Council District #23" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/postcode> "11362" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/census_tract> "152901" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <http://www.socrata.com/rdf/terms#rowID> "row-dbpn.cmyp.96ym" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/city> "Queens" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/bin> "4171760" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/nta> "Douglas Manor-Douglaston-Little Neck" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/address> "57-04 Marathon Parkway" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dbpn.cmyp.96ym> <https://data.cityofnewyork.us/resource/gzdv-qiga/latitude> "40.75942" .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-e8kr.pws4~eyny> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-3qk8_5vsa.4h2x> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-4tzh-bkic-jdcq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-supz_s496_ipdn> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-dksf~g8ff-is2n> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-6662_jtyu~8n9t> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-jcyb-5nkh.er3d> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-a7k6~7nev_f8jk> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ye7m.4hxv.5qcw> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-j8cm.ixbj-kjmf> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-j9m3.erpu.kmjq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-ig33.xhtd.pykh> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-nk6b_krea~vbc7> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-5msj-7ez4.w9nd> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-t2q5~m9j3.7ut9> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-zw9z_d58b_99ej> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .
+<https://data.cityofnewyork.us/resource/gzdv-qiga/row-esd6.ttnp-4tf3> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofnewyork.us/resource/gzdv-qiga> .

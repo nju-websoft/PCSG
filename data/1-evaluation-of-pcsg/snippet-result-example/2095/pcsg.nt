@@ -1,0 +1,178 @@
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-87.696388" .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.775002" .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Chicago, IL" .
+<09ade8d2-776f-4eda-bab7-28b783452cd8> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-103.801495" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.253979" .
+<0a9ba309-59f6-41bd-8b78-810db53e4818> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Fort Myers, FL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Dallas/Fort Worth, TX" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "DL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "4" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "DFW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "218.37" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "30194" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "RSW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "31714" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "216.11" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.56" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199341129814635DFWRSW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "Fort Myers, FL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "214.35" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <http://www.socrata.com/rdf/terms#rowID> "row-y8vt.f93r-rjit" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "11298" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "AA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B7cc45a8dX2Dfdf3X2D47d4X2Dae95X2Db29a25efc573 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.35" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "14635" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "99.23" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B0d71758cX2D2744X2D4700X2D82d6X2D548b51b7c8c8 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341129814635DFWRSW> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "1017" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "12264" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "UA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "41.33" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.54" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "UA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Fort Myers, FL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "182.37" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "181.08" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "RSW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.54" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "IAD" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "919" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "31714" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "30852" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "181.08" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B0a9ba309X2D59f6X2D41bdX2D8b78X2D810db53e4818 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199311463512264RSWIAD" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "1" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "Washington, DC (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <http://www.socrata.com/rdf/terms#rowID> "row-mfkc-33fb-w7n9" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "14635" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311463512264RSWIAD> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:Bfb7d02bdX2Dbff1X2D4110X2D85caX2Ddde1dea0724a .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "118.95" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "TW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "West Palm Beach/Palm Beach, FL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "118.95" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "118.95" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "1" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "1144" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199331098614027CHIPBI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "CHI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:Be8c1d5cfX2D8553X2D4a10X2D9585X2Dac2101d3a214 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B09ade8d2X2D776fX2D4edaX2Dbab7X2D28b783452cd8 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "30977" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <http://www.socrata.com/rdf/terms#rowID> "row-xtc6~3eq8_hty2" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "14027" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "3" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "1" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Chicago, IL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "34027" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "10986" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "0.21" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "PBI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331098614027CHIPBI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "TW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <http://www.socrata.com/rdf/terms#rowID> "row-bu5c_hyxv.sgcp" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "13784" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.92" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "31703" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "30994" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "10.43" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "New York City, NY (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B2ef5996aX2D9440X2D4b31X2Dbb56X2D017fcaa6b472 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "190.91" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "DL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "10994" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "678" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "DL" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "2" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Charleston, SC" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B5a85df96X2D2e5dX2D48f4X2D996fX2D4140ab82514c .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "190.91" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "199.88" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "CHS" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.92" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199321099413784CHSNYC" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321099413784CHSNYC> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "NYC" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "New York City, NY (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "10821" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.16" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.66" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "Washington, DC (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199321507010821SWFBWI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "2" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "US" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "265" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "261.8" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "BWI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "SWF" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "UA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "225.65" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "30852" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "0.65" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B0fcea794X2D872fX2D47c7X2Daea1X2Df3cdefb7a973 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "31703" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "15070" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <http://www.socrata.com/rdf/terms#rowID> "row-mhf6_hnpg.9ux5" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B34233fd1X2D145fX2D4657X2Da5e8X2D840d9ea1566d .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "190.8" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "New York City, NY (Metropolitan Area)" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-75.333718" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<5a85df96-2e5d-48f4-996f-4140ab82514c> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.123164" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.253979" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Fort Myers, FL" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-103.801495" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<0d71758c-2744-4700-82d6-548b51b7c8c8> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "656.08" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "Minneapolis/St. Paul, MN" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "243.8" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "31650" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "168.2" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "NW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <http://www.socrata.com/rdf/terms#rowID> "row-wcnz.rzu9.jz48" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "30721" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "1124" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B618eefd2X2Def8dX2D45f2X2Da32dX2D578000b35f9b .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "MSP" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "237.92" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199331072113487BOSMSP" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "3" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "BOS" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.87" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "CO" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Boston, MA (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "10721" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.01" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "13487" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331072113487BOSMSP> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B8ed35110X2D1cb7X2D46f4X2Da8f6X2D510ae7e3629f .

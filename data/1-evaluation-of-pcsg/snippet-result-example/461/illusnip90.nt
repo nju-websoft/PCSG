@@ -1,0 +1,62 @@
+<https://data.seattle.gov/resource/pr2n-4pn6/row-afv8~rvu2-t2u9> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-t7x7_qtxr~8riq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-ye4i~g9xd-s7nt> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-p32p~ewzs-ztqq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6dgn~wjqr_4b9a> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-e99m_hzqt.a8qp> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-dr3x-4754_en9c> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-yhh4.j4gc~mvxv> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-tqyv-282u_xs25> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-hw4q.h7vr_n24c> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-7dx5~9jw3.36iy> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-en8q.ud5y-cbws> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-bzit-evbb.2bvi> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-uzfs~d25t-unjq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-9v3s_mntj_727e> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <http://www.socrata.com/rdf/terms#rowID> "row-qpqq~7mjf.adt8" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/seattle_electoral_district> "District 2" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/neighborhood_district> "Greater Duwamish" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/awarded_amount> "1000" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/pledged_match_amount> "910" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/project_title> "Training for Community Members to Talk to Youth About Life Skills" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/project_description> "The Mercer Middle School PTSA will host a free public workshop for community members on the topic of addressing reproduction and sexual health with middle-school aged youth. It will take place at Mercer Middle School located at 1600 Columbian Way S on March 9, 2016 from 6 pm to 8 pm.  A subject matter expert will present information and interpretation will be provided. The project will empower community members and build connections among them." .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/contract_number> "O16005" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/award_year> "2016" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/id> "O16005" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/organization_name> "Mercer Middle School PTSA" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-qpqq~7mjf.adt8> <https://data.seattle.gov/resource/pr2n-4pn6/program_area> "Small Sparks Fund Fund" .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-m4yg_pdgu.9xfd> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-dp95-ecya-fgdy> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-ys3m_xcrk.esfi> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-89rx~85y5~xhty> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-rj48-rfqb_izcg> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-i3p7-2qsx-u4av> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-yk42~cauc.7x58> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-3yzv.ytwu.8vbe> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-u2jh~wzbg-5uyy> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6qmg.qx9w~xpyq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-i5v3.n32k_v74g> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-95se_itmg_hcsp> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-nz3m-fa6k.x3ih> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-j9zs_7xrv~7qna> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6pp8_guz9~3shh> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-ubcx~h6hq~bg9a> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-wtfa.u9q3-ktsw> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-i2cb.vttg.j73w> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-camm.a59w~hwwj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6zkn-ee4p_jqi2> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-m92c-ur5a-y57t> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-q88v-eg2y.iqae> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-aa93-saus.wsvw> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-2rrd.ends_78ht> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-k5zs~dpnd~xqkb> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-aj9e_z9my_md7u> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-niqr-rifr.d3qv> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-w846_cvsi_r2ni> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-72fy.cjt9~swtr> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6bw4_p8fg-aqcv> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-payc-rne4_gq5n> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-6c5w~7c8j~4hk7> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-xp3d_ztmx~qvze> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .
+<https://data.seattle.gov/resource/pr2n-4pn6/row-2ccp_mzy2.abfj> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.seattle.gov/resource/pr2n-4pn6> .

@@ -1,0 +1,33 @@
+<https://data.wa.gov/resource/ysrq-tssh/35> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/25> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/53> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/59> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/59> <http://xmlns.com/foaf/0.1/document> <https://data.wa.gov/views/ysrq-tssh/files/a8f05196-de40-42a9-845c-759747661f64> .
+<https://data.wa.gov/resource/ysrq-tssh/49> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/24> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/58> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/39> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/61> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/14> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/48> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/23> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/57> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/32> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/60> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/41> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/47> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/28> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/37> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/12> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/40> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/40> <http://xmlns.com/foaf/0.1/document> <https://data.wa.gov/views/ysrq-tssh/files/fb13072b-a839-4507-a605-30edcb59671f> .
+<https://data.wa.gov/resource/ysrq-tssh/27> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/36> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/11> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/9> <http://www.socrata.com/rdf/terms#rowID> "9" .
+<https://data.wa.gov/resource/ysrq-tssh/9> <https://data.wa.gov/resource/ysrq-tssh/factsheet_comments> "Permitting chemical discharge into to waters   feeding into the Puget Sound can effect its entire ecosystem. I feel the discharge of lawn chemicals should also be regulated." .
+<https://data.wa.gov/resource/ysrq-tssh/9> <https://data.wa.gov/resource/ysrq-tssh/name> "Thomas Moehlman" .
+<https://data.wa.gov/resource/ysrq-tssh/9> <https://data.wa.gov/resource/ysrq-tssh/draft_permit_comments> "I support the increased requirement of the permit process." .
+<https://data.wa.gov/resource/ysrq-tssh/9> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .
+<https://data.wa.gov/resource/ysrq-tssh/17> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.wa.gov/resource/ysrq-tssh> .

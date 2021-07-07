@@ -1,0 +1,39 @@
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "38.892062" .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Washington, DC (Metropolitan Area)" .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<34233fd1-145f-4657-a5e8-840d9ea1566d> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-77.019912" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "New York City, NY (Metropolitan Area)" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-75.333718" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.123164" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<0fcea794-872f-47c7-aea1-f3cdefb7a973> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "New York City, NY (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "10821" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.16" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.66" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "Washington, DC (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199321507010821SWFBWI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "2" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "US" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "265" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "261.8" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "BWI" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "SWF" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "UA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "0.65" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "30852" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "225.65" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B0fcea794X2D872fX2D47c7X2Daea1X2Df3cdefb7a973 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "31703" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "15070" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <http://www.socrata.com/rdf/terms#rowID> "row-mhf6_hnpg.9ux5" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B34233fd1X2D145fX2D4657X2Da5e8X2D840d9ea1566d .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321507010821SWFBWI> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "190.8" .

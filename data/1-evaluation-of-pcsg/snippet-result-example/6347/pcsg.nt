@@ -1,0 +1,60 @@
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "41290" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/employment> "67740" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "95750" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "19-0000" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/mean> "77600" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/median> "67840" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Life, Physical, and Social Science Occupations" .
+<https://data.ny.gov/resource/gkgz-nw24/row-9en8.8rua.6gdq> <http://www.socrata.com/rdf/terms#rowID> "row-9en8.8rua.6gdq" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Oral and Maxillofacial Surgeons" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <http://www.socrata.com/rdf/terms#rowID> "row-zp25-32wx~cpts" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/mean> "253800" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/employment> "490" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "29-1022" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "305030" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "151350" .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-zp25-32wx~cpts> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <http://www.socrata.com/rdf/terms#rowID> "row-bfxz-2iws-qpy5" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "29-1067" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/employment> "1710" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/mean> "254990" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-bfxz-2iws-qpy5> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Surgeons" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/employment> "1200" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <http://www.socrata.com/rdf/terms#rowID> "row-34gy~cdfc-ux8z" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/mean> "234260" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Obstetricians and Gynecologists" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "116250" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "29-1064" .
+<https://data.ny.gov/resource/gkgz-nw24/row-34gy~cdfc-ux8z> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "293270" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/employment> "10320" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "27-2022" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Coaches and Scouts" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/median> "47470" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/mean> "57300" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "27770" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <http://www.socrata.com/rdf/terms#rowID> "row-i4ue~gjva.6dtr" .
+<https://data.ny.gov/resource/gkgz-nw24/row-i4ue~gjva.6dtr> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "72070" .

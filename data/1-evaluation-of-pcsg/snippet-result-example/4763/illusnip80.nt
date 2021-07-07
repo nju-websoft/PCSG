@@ -1,0 +1,23 @@
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-txif.a97d-xctx> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-v296~9up6~8n7m> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-b6ig-gpfu~754x> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-b6ig-gpfu~754x> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_unit> "District 11 - Harrison" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/offense_type> "Armed Robbery" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/defendant_count> "2" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <http://www.socrata.com/rdf/terms#rowID> "row-4hx2_b6im.eqhu" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4hx2_b6im.eqhu> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-bbst-xers~7k2y> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-krt4.fe3k~wjax> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-44df_vxti-bx65> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-mhgp-x3t6~xvnr> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-tn4w.t5wf.qzw4> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-qvs4.j6cq-mubc> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-h7m7.mpi7-3bf9> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-9cph_69yk-6cps> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-8c9n.gs5n~9fpj> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4i89-vemg.inrh> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-4i89-vemg.inrh> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/sentencing_result> "Jail" .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-ergw.2n6i-f4s3> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .
+<https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x/row-47xh.ab96_x4ph> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/uf6g-sr2x> .

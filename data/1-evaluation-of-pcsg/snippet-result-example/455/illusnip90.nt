@@ -1,0 +1,23 @@
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-mzek-eifd_f6fp> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-cah4-uz3h_fua6> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-btcv_g2i2.z5i9> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-gryz~63qa_qbwq> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-ivfu-h5hc_6d4m> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-k859_mqnj_ywk3> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-8347~89vw_t5wr> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-4h6a_kmqy_h5rf> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_unit> "District 15 - Austin" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/initiation_result> "Rejected" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <http://www.socrata.com/rdf/terms#rowID> "row-6ds8~hfgi-6vxk" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/offense_type> "Aggravated Battery" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-6ds8~hfgi-6vxk> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-wrgn~pnxn_33iy> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-x3z6_pyrn-w6zq> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-fb7i_3rbx-nzx9> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-3bw9.959p~xip3> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-dfuf~9tj5.fa8n> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-ixwf.m9z7-xphi> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-a3kx_xywg~nhcw> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i> .

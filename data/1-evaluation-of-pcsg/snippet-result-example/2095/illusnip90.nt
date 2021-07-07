@@ -1,0 +1,39 @@
+<https://data.transportation.gov/resource/tfrh-tu9e/199311072111292BOSDEN> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "263.56" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "32457" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "PIT" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "13796" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "401.48" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "30198" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "OAK" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "14122" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "2254" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "382.23" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "UA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "1" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <http://www.socrata.com/rdf/terms#rowID> "row-tppx-irb2~9epm" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "10.66" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199311412213796PITOAK" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:B59186f5eX2D36b0X2D46abX2DbbfdX2D927dab33155d .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "San Francisco, CA (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Pittsburgh, PA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.65" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "AA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:Be91eea6aX2D20a5X2D47e6X2D99deX2Dcc27a1413afd .
+<https://data.transportation.gov/resource/tfrh-tu9e/199311412213796PITOAK> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.11" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341247814321JFKPWM> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341106612892CMHLAX> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321295413204LGBMCO> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199341329612953MHTLGA> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Pittsburgh, PA" .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-79.994945" .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.442169" .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<59186f5e-36b0-46ab-bbfd-927dab33155d> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321129514107DETPHX> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199321490811884SNAGEG> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .

@@ -1,0 +1,20 @@
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <https://data.cityofchicago.org/resource/_2nra-kpzu/organization> "Thompson Coburn" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <https://data.cityofchicago.org/resource/_2nra-kpzu/requestor_name> "Lesley Magnabosco" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <http://www.socrata.com/rdf/terms#rowID> "row-9tnw.h5xt_s9rr" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <https://data.cityofchicago.org/resource/_2nra-kpzu/description_of_request> "principal profile  form" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <https://data.cityofchicago.org/resource/_2nra-kpzu/due_date> "2010-11-11T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <https://data.cityofchicago.org/resource/_2nra-kpzu/date_received> "2010-11-04T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-9tnw.h5xt_s9rr> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <http://www.socrata.com/rdf/terms#rowID> "row-v3p8_avwg-zzis" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <https://data.cityofchicago.org/resource/_2nra-kpzu/requestor_name> "Victoria Grzelak" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <https://data.cityofchicago.org/resource/_2nra-kpzu/description_of_request> "Zoning citations , compliants , Occ Certs  ZBA Resolutions for 5621 N. Windsor" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <https://data.cityofchicago.org/resource/_2nra-kpzu/organization> "Levun , Goodman & Cohen , LLP" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <https://data.cityofchicago.org/resource/_2nra-kpzu/date_received> "2010-11-22T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <https://data.cityofchicago.org/resource/_2nra-kpzu/due_date> "2010-12-01T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-v3p8_avwg-zzis> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <https://data.cityofchicago.org/resource/_2nra-kpzu/description_of_request> "property liens  and code  violations for 3435 N. Claremont" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <https://data.cityofchicago.org/resource/_2nra-kpzu/due_date> "2010-06-22T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.cityofchicago.org/resource/_2nra-kpzu> .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <http://www.socrata.com/rdf/terms#rowID> "row-e2iw-kfdk-m5mb" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <https://data.cityofchicago.org/resource/_2nra-kpzu/date_received> "2010-06-15T00:00:00" .
+<https://data.cityofchicago.org/resource/_2nra-kpzu/row-e2iw-kfdk-m5mb> <https://data.cityofchicago.org/resource/_2nra-kpzu/requestor_name> "Michael Widdes" .

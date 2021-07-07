@@ -1,0 +1,31 @@
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/status> "S 4/29/2013: Enrolled to Governor." .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <http://www.socrata.com/rdf/terms#rowID> "row-b4c6-cfa8.6bpn" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/bill> "SB328 SD1 HD2 CD1" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/abstract> "Amends the Residential Landlord-tenant Code to provide for security deposits that include an additional amount to pay for damages caused by any pet animal, other than an assistance animal, allowed to reside in the premises pursuant to the rental agreement. Effective for rental agreements entered into on or after 11/01/2013. (CD1)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/introducer_s> "HEE" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/current_referral> "CPC, JUD" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/subject> "Residential Landlord-tenant Code; Security Deposit; Animals; Pet Animals" .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-b4c6-cfa8.6bpn> <https://data.hawaii.gov/resource/pkba-543m/title> "RELATING TO ANIMALS." .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <http://www.socrata.com/rdf/terms#rowID> "row-3emq~6egg~aa2i" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/status> "H 5/7/2013: Transmitted to Governor." .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/bill> "HB858 HD1 SD1 CD1" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/subject> "Hawaii Strategic Development Corporation; HI Growth Initiative" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/title> "RELATING TO THE HI GROWTH INITIATIVE." .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/appropriation> "($)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/current_referral> "EDB, CPC, FIN" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/abstract> "Appropriates funds to the Hawaii Strategic Development Corporation for the HI Growth Initiative, an investment program to develop an ecosystem to support high-growth entrepreneurial companies in the State. Requires report to Legislature. Appropriation. Effective July 1, 2013. (HB858 CD1)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-3emq~6egg~aa2i> <https://data.hawaii.gov/resource/pkba-543m/introducer_s> "SOUKI (Introduced by request of another party)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/bill> "SB1349 SD2 HD1 CD1" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/title> "RELATING TO ECONOMIC DEVELOPMENT." .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/current_referral> "EDB, FIN" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/status> "S 5/7/2013: Enrolled to Governor." .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/abstract> "Reenacts the tax credit for qualified research activities to apply to taxable years from 2013 to 2019. Adds, amends, and deletes definitions. Establishes new reporting requirements. Requires DBEDT to conduct studies to measure the effectiveness of the tax credit and submit reports to the legislature. ( CD1)" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.hawaii.gov/resource/pkba-543m> .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <http://www.socrata.com/rdf/terms#rowID> "row-k385~7k54-3zzt" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/subject> "High Technology; Research Activities; Tax Credit" .
+<https://data.hawaii.gov/resource/pkba-543m/row-k385~7k54-3zzt> <https://data.hawaii.gov/resource/pkba-543m/introducer_s> "DELA CRUZ" .

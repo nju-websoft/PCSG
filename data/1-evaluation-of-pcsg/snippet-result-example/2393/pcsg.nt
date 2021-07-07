@@ -1,0 +1,34 @@
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <http://www.socrata.com/rdf/terms#rowID> "214" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/id> "50" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_start_date> "2013-10-01T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/program_name> "MBHS" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/coa_managed_program_amount> "194963" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_end_date> "2014-09-30T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <https://data.austintexas.gov/resource/_7r7e-cc8k/agency_legal_name> "Caritas of Austin" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/214> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/agency_legal_name> "Community Action, Inc. of Central Texas" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <http://www.socrata.com/rdf/terms#rowID> "280" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_start_date> "2016-01-01T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/id> "111" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/coa_managed_program_amount> "119960" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/program_name> "Part C - CAI" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/280> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_end_date> "2016-12-31T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/program_name> "Economic Empowerment Program" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/agency_legal_name> "SAHELI, INC" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_start_date> "2017-01-01T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_end_date> "2017-09-30T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/dba_if_any> "Asian Family Support Services of Austin" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <http://www.socrata.com/rdf/terms#rowID> "493" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/coa_managed_program_amount> "37500" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/493> <https://data.austintexas.gov/resource/_7r7e-cc8k/id> "212" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/agency_legal_name> "Capital Investing in Development and Employment of Adults Inc" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/coa_managed_program_amount> "543049" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_end_date> "2012-05-31T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/dba_if_any> "Capital IDEA" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <http://www.socrata.com/rdf/terms#rowID> "191" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/period_start_date> "2011-10-01T00:00:00" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/program_name> "Capital IDEA" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <https://data.austintexas.gov/resource/_7r7e-cc8k/id> "21" .
+<https://data.austintexas.gov/resource/_7r7e-cc8k/191> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.austintexas.gov/resource/_7r7e-cc8k> .

@@ -1,0 +1,29 @@
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/year> "2013" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <http://www.w3.org/2000/01/rdf-schema#member> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/datasource> "OSH" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationdesc> "Missouri" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/topictypeid> "LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationabbr> "MO" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/displayorder> "4" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/datatype> "Yes/No" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionid> "762" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiondesc> "License Fee Required" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/measureid> "1019LOC" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupdesc> "Additional Requirements" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionvalue> "No Provision" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicid> "1044LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/geolocation> _:Bfbeeae7eX2Ded68X2D4b54X2Db88fX2D0cf29b47968c .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicdesc> "Legislation - E-Cigarette - Licensure" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionaltvalue> "0" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/measuredesc> "Over-the-Counter" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/quarter> "4" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <http://www.socrata.com/rdf/terms#rowID> "454" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/454> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupid> "20GRP" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-92.56630005299968" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "38.635790776000476" .
+<fbeeae7e-ed68-4b54-b88f-0cf29b47968c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
