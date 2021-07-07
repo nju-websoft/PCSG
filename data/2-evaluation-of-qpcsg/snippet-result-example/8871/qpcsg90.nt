@@ -1,0 +1,26 @@
+<05719a91-6390-4f26-b9f4-66a619822f89> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<05719a91-6390-4f26-b9f4-66a619822f89> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<05719a91-6390-4f26-b9f4-66a619822f89> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "" .
+<05719a91-6390-4f26-b9f4-66a619822f89> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "9325 Church St" .
+<05719a91-6390-4f26-b9f4-66a619822f89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n> .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <http://www.w3.org/2000/01/rdf-schema#member> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n> .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <http://www.socrata.com/rdf/terms#rowID> "row-vt57~tu42~wcus" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/fiscal_year> "2008" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/month> "June" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/location_1> _:B05719a91X2D6390X2D4f26X2Db9f4X2D66a619822f89 .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/usage> "21.29" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-vt57~tu42~wcus> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/gas_cost> "52.79" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n> .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/fiscal_year> "2010" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/month> "March" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <http://www.socrata.com/rdf/terms#rowID> "row-gpp4.8gbv_vg6w" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/usage> "10787.58" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-gpp4.8gbv_vg6w> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/gas_cost> "7922.23" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <http://www.socrata.com/rdf/terms#rowID> "row-8scd~pp84_zcqa" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/usage> "433.44" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/gas_cost> "962.59" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n> .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/month> "September" .
+<https://datacatalog.cookcountyil.gov/resource/t388-3s4n/row-8scd~pp84_zcqa> <https://datacatalog.cookcountyil.gov/resource/t388-3s4n/fiscal_year> "2010" .
+
