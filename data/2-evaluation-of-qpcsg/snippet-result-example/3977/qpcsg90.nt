@@ -1,0 +1,30 @@
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "" .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-83.62758034599966" .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<c2d0371d-fa9c-4528-a5ee-86691c6fef39> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.83968109300048" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/topictypeid> "LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupid> "60GRP" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionaltvalue> "0" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/measureid> "1019LOC" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionid> "766" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiondesc> "Maximum Penalty to Business ($)" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationabbr> "GA" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <http://www.socrata.com/rdf/terms#rowID> "460" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/year> "2015" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/datatype> "Money" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <http://www.w3.org/2000/01/rdf-schema#member> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/geolocation> _:Bc2d0371dX2Dfa9cX2D4528X2Da5eeX2D86691c6fef39 .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicdesc> "Legislation - E-Cigarette - Licensure" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicid> "1044LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/quarter> "2" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/measuredesc> "Over-the-Counter" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupdesc> "Penalties" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/displayorder> "8" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/datasource> "OSH" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionvalue> "No Provision" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationdesc> "Georgia" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+

@@ -1,0 +1,21 @@
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/offense_type> "Child Abduction" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/initiation_result> "Continued Investigation" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <http://www.socrata.com/rdf/terms#rowID> "row-rnea-4rc3.bkrb" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-rnea-4rc3.bkrb> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_unit> "District 15 - Austin" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <http://www.socrata.com/rdf/terms#rowID> "row-had3~mby3-c8yy" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/year> "2016" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/initiation_result> "Approved" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_unit> "District 5 - Calumet" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-had3~mby3-c8yy> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/offense_type> "Child Abduction" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <http://www.socrata.com/rdf/terms#rowID> "row-u8qh_zxmu~5bet" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/offense_type> "Arson and Attempt Arson" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/defendant_count> "1" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/city_suburb> "Chicago PD" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/initiation_result> "Continued Investigation" .
+<https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/row-u8qh_zxmu~5bet> <https://datacatalog.cookcountyil.gov/resource/csm4-6i6i/year> "2016" .
+
