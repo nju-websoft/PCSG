@@ -1,0 +1,30 @@
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/datasource> "OSH" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <http://www.socrata.com/rdf/terms#rowID> "83" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionaltvalue> "0" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/quarter> "3" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupdesc> "Additional Requirements" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionid> "764" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiondesc> "Minimum License Fee ($)" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/year> "2013" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/topictypeid> "LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisionvalue> "No Provision" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/displayorder> "6" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/provisiongroupid> "20GRP" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicid> "1044LEG" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationabbr> "MS" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/geolocation> _:B943f7afcX2D4046X2D4e47X2Da0b8X2D856b9e9f3e01 .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/locationdesc> "Mississippi" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/measureid> "1019LOC" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <http://www.w3.org/2000/01/rdf-schema#member> <https://chronicdata.cdc.gov/resource/ne52-uraz> .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/topicdesc> "Legislation - E-Cigarette - Licensure" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/measuredesc> "Over-the-Counter" .
+<https://chronicdata.cdc.gov/resource/ne52-uraz/83> <https://chronicdata.cdc.gov/resource/ne52-uraz/datatype> "Money" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.745510099000455" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-89.53803082499968" .
+<943f7afc-4046-4e47-a0b8-856b9e9f3e01> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+
