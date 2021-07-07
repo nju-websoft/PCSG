@@ -1,0 +1,13 @@
+<https://data.ny.gov/resource/gkgz-nw24/row-tink-5yb3-3brk> <http://www.socrata.com/rdf/terms#rowID> "row-tink-5yb3-3brk" .
+<https://data.ny.gov/resource/gkgz-nw24/row-qerc.pw7b_dhzx> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-hs6n_eza8-jxyu> <https://data.ny.gov/resource/gkgz-nw24/area> "36" .
+<https://data.ny.gov/resource/gkgz-nw24/row-q9sf~wisb~9ha2> <https://data.ny.gov/resource/gkgz-nw24/entry_wage> "42000" .
+<https://data.ny.gov/resource/gkgz-nw24/row-am5d~hwcv_m5t4> <https://data.ny.gov/resource/gkgz-nw24/mean> "50040" .
+<https://data.ny.gov/resource/gkgz-nw24/row-ji4i~irwg~63e3> <https://data.ny.gov/resource/gkgz-nw24/area_type> "1" .
+<https://data.ny.gov/resource/gkgz-nw24/row-x7xq-3unv_8dyb> <https://data.ny.gov/resource/gkgz-nw24/experienced_wage> "83920" .
+<https://data.ny.gov/resource/gkgz-nw24/row-d3rg~yahi-7fgp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/gkgz-nw24> .
+<https://data.ny.gov/resource/gkgz-nw24/row-94sg_jb8i_javv> <https://data.ny.gov/resource/gkgz-nw24/area_name> "New York State" .
+<https://data.ny.gov/resource/gkgz-nw24/row-4wd7~9dtn~ujut> <https://data.ny.gov/resource/gkgz-nw24/standard_occupational_code> "17-3027" .
+<https://data.ny.gov/resource/gkgz-nw24/row-6n54-v9fn.rnpa> <https://data.ny.gov/resource/gkgz-nw24/occupational_title> "Area, Ethnic, and Cultural Studies Teachers, Postsecondary" .
+<https://data.ny.gov/resource/gkgz-nw24/row-xdie_8i8u_k6wx> <https://data.ny.gov/resource/gkgz-nw24/employment> "9030" .
+

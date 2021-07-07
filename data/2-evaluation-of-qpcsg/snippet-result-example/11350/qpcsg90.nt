@@ -1,0 +1,49 @@
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED UNLICENSED OPERATION 3RD DEGREE MISDEMEANOR" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <http://www.socrata.com/rdf/terms#rowID> "row-fv7t~v8q8_sz7h" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "75" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/sex> "M" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "CLINTON COUNTY, TOWN OF PLATTSBURG" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fv7t~v8q8_sz7h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "43" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "ONONDAGA COUNTY" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <http://www.socrata.com/rdf/terms#rowID> "row-yfcg.8r32~yy2r" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/sex> "F" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - CHILD IN VEHICLE" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-yfcg.8r32~yy2r> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "D" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <http://www.socrata.com/rdf/terms#rowID> "row-gxne_dqfk~sg3d" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/sex> "M" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "27" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "CHAUTAUQUA COUNTY, TOWN OF HANOVER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "ID" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED UNLICENSED OPERATION 3RD DEGREE MISDEMEANOR" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-gxne_dqfk~sg3d> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "ERIE COUNTY, TOWN OF WEST SENECA" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <http://www.socrata.com/rdf/terms#rowID> "row-fgij~83z4~bm94" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "D" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-fgij~83z4~bm94> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED UNLICENSED OPERATION 3RD DEGREE MISDEMEANOR" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "JEFFERSON COUNTY, TOWN OF PAMELIA" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - BLOOD ALCOHOL CONTENT .18 OR HIGHER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/sex> "F" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <https://data.ny.gov/resource/yqfe-cnwu/age_on_violation_date> "36" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-whrz-4mkf~kpk7> <http://www.socrata.com/rdf/terms#rowID> "row-whrz-4mkf~kpk7" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/license_class_on_violation_date> "ID" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/month_of_conviction> "APRIL" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/year_of_conviction> "2017" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/court_name> "SUFFOLK DISTRICT COURT" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <https://data.ny.gov/resource/yqfe-cnwu/conviction_description> "AGGRAVATED DWI - BLOOD ALCOHOL CONTENT .18 OR HIGHER" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <http://www.socrata.com/rdf/terms#rowID> "row-v9wm-vxy7-6nkz" .
+<https://data.ny.gov/resource/yqfe-cnwu/row-v9wm-vxy7-6nkz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.ny.gov/resource/yqfe-cnwu> .
+

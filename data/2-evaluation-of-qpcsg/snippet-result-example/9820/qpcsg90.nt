@@ -1,0 +1,40 @@
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "Louisville, KY" .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "38.256078" .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-85.751569" .
+<b08fc894-304f-4a37-82f9-a81b11d6b17c> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/large_ms> "0.38" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/location_1> _:Bb08fc894X2D304fX2D4a37X2D82f9X2Da81b11d6b17c .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/nsmiles> "1989" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/passengers> "15.97" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/location_2> _:B9559c2bcX2D7a52X2D4da0X2D8ff7X2Df544e89a73b0 .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_lg> "AA" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_2> "32457" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/tbl> "Table 1a" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/fare_lg> "264.55" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/airport_2> "SJC" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/airport_1> "SDF" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/carrier_low> "TW" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/citymarketid_1> "33044" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/fare_low> "193.28" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <http://www.w3.org/2000/01/rdf-schema#member> <https://data.transportation.gov/resource/tfrh-tu9e> .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/city2> "San Francisco, CA (Metropolitan Area)" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <http://www.socrata.com/rdf/terms#rowID> "row-jx7n~xkr7_fytr" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_2> "14831" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/lf_ms> "0.1" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/fare> "270.79" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/city1> "Louisville, KY" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/year> "1993" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/airportid_1> "14730" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/tbl1apk> "199331473014831SDFSJC" .
+<https://data.transportation.gov/resource/tfrh-tu9e/199331473014831SDFSJC> <https://data.transportation.gov/resource/tfrh-tu9e/quarter> "3" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2000/10/swap/pim/usps#stateAbbr> "" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress> "" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2000/10/swap/pim/usps#zipCode> "" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "37.78008" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-122.420168" .
+<9559c2bc-7a52-4da0-8ff7-f544e89a73b0> <http://www.w3.org/2000/10/swap/pim/usps#cityName> "San Francisco, CA (Metropolitan Area)" .
+
